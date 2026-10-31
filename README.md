@@ -5,7 +5,7 @@ analysis, including DNA and image embeddings.
 
 ## Workshop Notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK](https://colab.research.google.com/drive/11-rDzVSq86aqb9Rzcf6lOHMUXbR6Wbwu?usp=sharing))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11-rDzVSq86aqb9Rzcf6lOHMUXbR6Wbwu?usp=sharing)
 
 Click the button above to open the tutorial in Google Colab.
 
